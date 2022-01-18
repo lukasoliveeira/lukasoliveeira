@@ -1,4 +1,5 @@
 ## Olá, eu sou Lucas A. Oliveira, estudante de programação e tecnologia!
+
 <div align="center">
   <a href="https://github.com/lukasoliveeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasoliveeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -17,4 +18,7 @@
   ##
   ![Snake animation](https://github.com/lukasoliveeira/lukasoliveeira/blob/output/github-contribution-grid-snake.svg)
 
-  
+  ##
+<div class="socialMedia">
+   <a href="https://instagram.com/lukaz_oliveeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
