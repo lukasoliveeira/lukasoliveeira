@@ -14,7 +14,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
-
+  ##
   ![Snake animation](https://github.com/lukasoliveeira/lukasoliveeira/blob/output/github-contribution-grid-snake.svg)
 
   
