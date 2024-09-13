@@ -18,7 +18,7 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
   ##
-  ![Snake animation](https://github.com/lukasoliveeira/lukasoliveeira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lukasoliveeira/lukasoliveiira/blob/output/github-contribution-grid-snake.svg)
 
   ##
 <div class="socialMedia">
